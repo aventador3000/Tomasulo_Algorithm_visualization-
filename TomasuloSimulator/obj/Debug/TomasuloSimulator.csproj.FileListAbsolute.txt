@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator-master\TomasuloSimulator\bin\Debug\TomasuloSimulator.exe.config
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator-master\TomasuloSimulator\bin\Debug\TomasuloSimulator.exe
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator-master\TomasuloSimulator\bin\Debug\TomasuloSimulator.pdb
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator-master\TomasuloSimulator\obj\Debug\TomasuloSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator-master\TomasuloSimulator\obj\Debug\TomasuloSimulator.Form1.resources
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator-master\TomasuloSimulator\obj\Debug\TomasuloSimulator.Properties.Resources.resources
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator-master\TomasuloSimulator\obj\Debug\TomasuloSimulator.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator-master\TomasuloSimulator\obj\Debug\TomasuloSimulator.exe
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator-master\TomasuloSimulator\obj\Debug\TomasuloSimulator.pdb
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator!!!+++\Project\TomasuloSimulator\bin\Debug\TomasuloSimulator.exe.config
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator!!!+++\Project\TomasuloSimulator\obj\Debug\TomasuloSimulator.exe
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator!!!+++\Project\TomasuloSimulator\obj\Debug\TomasuloSimulator.pdb
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator\Project\TomasuloSimulator\bin\Debug\TomasuloSimulator.exe.config
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator\Project\TomasuloSimulator\obj\Debug\TomasuloSimulator.exe
+C:\Users\Никита\Desktop\Tomasulo\TomasuloSimulator\Project\TomasuloSimulator\obj\Debug\TomasuloSimulator.pdb
